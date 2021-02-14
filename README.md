@@ -45,7 +45,7 @@
 
 ## About
 
-:neckbeard: [loading-page-simple](https://github.com/Gilles30/sign-up-form.git) - A registration page created during the tutorial [giovannamoeller](https://github.com/giovannamoeller) [tutorial-youtube](https://www.youtube.com/watch?v=Q68vbJplf7I).
+:neckbeard: [sign-up-form](https://github.com/Gilles30/sign-up-form) - A registration page created during the tutorial [giovannamoeller](https://github.com/giovannamoeller) [tutorial-youtube](https://www.youtube.com/watch?v=Q68vbJplf7I).
 
 ---
 
